@@ -374,6 +374,7 @@ frontend:
 
 Dashboard udostępniony zgodnie z licencją repozytorium autora.
 
+link do orginalnego posta autora : https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard
 ---
 
 
