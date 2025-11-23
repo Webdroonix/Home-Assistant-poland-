@@ -369,22 +369,6 @@ frontend:
 
 ---
 
-## 📌 Najczęstsze problemy
-
-### ❗ Czarne tło zamiast animacji
-
-* Sprawdź czy link MP4 działa w przeglądarce.
-* Upewnij się, że odtwarzanie wideo jest włączone w panelu urządzenia.
-
-### ❗ Brak ikon / błędy kart
-
-* Sprawdź, czy wszystkie wymagane **custom cards** są zainstalowane w HACS.
-
-### ❗ Dashboard się nie wyświetla
-
-* Upewnij się, że panel jest ustawiony jako „dashboard YAML”.
-
----
 
 ## 📌 Licencja
 
@@ -392,11 +376,4 @@ Dashboard udostępniony zgodnie z licencją repozytorium autora.
 
 ---
 
-Jeśli chcesz, mogę:
-
-* dopisać sekcję FAQ,
-* dodać screeny,
-* przygotować pełne README z grafikami.
-
-Daj tylko znać!
 
